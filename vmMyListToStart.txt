@@ -1,0 +1,3 @@
+/path-to-your/VM-Shared/lab03.ubusrv.prod/lab03.ubusrv.prod.vmx
+/path-to-your/VM-Shared/lab05.ubusrv.prod/lab05.ubusrv.prod.vmx
+/path-to-your/VM-Shared/lab07.ubusrv.prod/lab07.ubusrv.prod.vmx
