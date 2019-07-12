@@ -1,5 +1,5 @@
 
-Two simple examples of scripts for batch, commandline stopping and starting the Shared Vmware Workstation VM images on linux host with vmrun.
+Simple examples of scripts for batch, commandline stopping, starting checking memory usage of the Shared Vmware Workstation VM images on linux host with vmrun.
 
     @author Krzysztof Paz
     @category vmware_vmrun_command_line
