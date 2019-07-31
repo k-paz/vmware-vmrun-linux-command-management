@@ -17,3 +17,5 @@ echo " Still available memory for user: " $AvailM "MB =" $AvailP "% "
 echo 
 vmrun list |head -1
 echo 
+ps aux --sort=-pcpu | head -n 17 | awk '{ print $3 " : " $4 " : " $9 " : " $10 " : " $NF}'
+echo
